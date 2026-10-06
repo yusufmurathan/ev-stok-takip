@@ -68,6 +68,7 @@ object SeedCatalog {
         CatalogEntity(name = "Zemin Temizleyici", category = Category.TEMIZLIK, emoji = "🧹"),
         CatalogEntity(name = "Cam Temizleyici", category = Category.TEMIZLIK, emoji = "🧴"),
         CatalogEntity(name = "Yüzey Dezenfektanı", category = Category.TEMIZLIK, emoji = "🧴"),
+        CatalogEntity(name = "Yüzey Temizleyicili Islak Mendil", category = Category.TEMIZLIK, emoji = "🧽"),
         CatalogEntity(name = "Lavabo Açıcı", category = Category.TEMIZLIK, emoji = "🧴"),
         CatalogEntity(name = "Tuvalet Temizleyici", category = Category.TEMIZLIK, emoji = "🚽"),
         CatalogEntity(name = "Oda Spreyi", category = Category.TEMIZLIK, emoji = "🌸"),
